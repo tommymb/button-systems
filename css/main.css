@@ -1,0 +1,17 @@
+html {
+  font-family: sans-serif;
+}
+
+.btn {
+  background-color: limegreen;
+  border-color: limegreen;
+}
+
+.btn-ghost {
+  background-color: transparent;
+}
+
+.btn-light {
+  background-color: lightgreen;
+  border-color: lightgreen;
+}
